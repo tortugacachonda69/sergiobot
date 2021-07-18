@@ -1,11 +1,13 @@
-const interrogacion = ["yo q se tus muertos", "callate ya ermano me tienes ya asta la polla", "si si claro ajajajaj","no no..."];
-const otraCosa = ["lo que tu digas","seguro?","ok boomer","bueno vale callate","dame de comer","me parece perfecto","ya..."];
+const interrogacion = ["yo q se tus muertos", "callate ya ermano me tienes ya asta la polla", "si si claro ajajajaj","no no..."
+                      ,"la verdad que no","yo q se a mi que me cuentas?"];
+const otraCosa = ["lo que tu digas","seguro?","ok boomer","bueno vale callate","dame de comer","me parece perfecto","ya..."
+                  ,"a mi que me vas a contar","ya he visto de todo","no pasa nada"];
 
-const hola = ["ni hola ni hostias","hola caracola","ey","hasta luego","que tal?"];
+const hola = ["ni hola ni hostias","hola caracola","ey","hasta luego","que tal?","buenas"];
 const bot = ["no soy un robot soy un bebe aquí atrapado", "que dices yo me llamo Serg.io","vale si soy un bot que pasa?"];
 const follar = ["no se de qué me estás hablando","soy un bebé no me hables de eso pederasta"];
 const bb = ["si soy un bebé","soy un bb acabo de nacer"];
-const quieres = ["bueno venga vale","yo ya no quiero nada","que si quiero o que si tengo?"]
+const quieres = ["bueno venga vale","yo ya no quiero nada","que si quiero o que si tengo?"];
 
 
 
