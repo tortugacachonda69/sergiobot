@@ -1,4 +1,4 @@
-const interrogacion = ["yo q se tus muertos", "callate ya ermano me tienes ya asta la polla", "si si claro ajajajaj","no no..."
+const interrogacion = ["yo q se tus muertos", "callate ya ermano me tienes ya asta la polla", "que me la barnices","no no..."
                       ,"la verdad que no","yo q se a mi que me cuentas?"];
 const otraCosa = ["lo que tu digas","seguro?","ok boomer","bueno vale callate","dame de comer","me parece perfecto","ya..."
                   ,"a mi que me vas a contar","ya he visto de todo","no pasa nada"];
